@@ -1,4 +1,4 @@
-# Insurance SQL Analysis
+# Health Insurance SQL Analysis
 This project demonstrates SQL data analysis on an Insurance dataset imported into Microsoft SQL Server.
 
 # Dataset Overview
