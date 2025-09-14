@@ -1,5 +1,6 @@
 # Health Insurance SQL Analysis
-This project demonstrates SQL data analysis on an Insurance dataset imported into Microsoft SQL Server.
+This project demonstrates an analysis of health insurance data using SQL.  
+The dataset was imported into Microsoft SQL Server and analyzed to uncover key insights such as cost patterns, demographic distributions, and the impact of lifestyle factors on insurance charges.
 
 # Dataset Overview
 - Database: Health Analytics  
