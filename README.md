@@ -25,6 +25,4 @@ The dataset was imported into Microsoft SQL Server and analyzed to uncover key i
 - BMI positively correlates with insurance charges.  
 - Regions show minor differences, but lifestyle factors dominate cost.  
 
-## 👩‍💻 Author
-**Falade Oyindamola**  
-*Data Analyst | SQL | Power BI | Python*  
+# By Oyindamola Falade 
